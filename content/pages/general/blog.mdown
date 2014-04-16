@@ -2,6 +2,8 @@ Date: 15 April 2014
 
 # New Blog
 
-Well, here it is. A new blog I won't post to. I always figure I should have something here. So this is it.
+Well, here it is. A new blog I won't post to.
+
+I always figure I should have something here. More than just a page telling you my webserver is working. I'm not great about blogging but I thought I would give this a try. In the next few days I will fix things up and make them look better. I also have a few projects in the works I will post about.
 
 Enjoy.
